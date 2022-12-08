@@ -18,7 +18,6 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 
 
 ## Installation
-* Heroku: You can access the application in the easiest way using the [Heroku](https://...) 
 
 * Localhost: 
 1. Clone this project in to your local machine.
